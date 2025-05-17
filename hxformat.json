@@ -26,5 +26,8 @@
       "defaultLocation": "afterLast"
     },
     "maxLineLength": 100
+  },
+  "whitespace": {
+    "typeHintColonPolicy": "after"
   }
 }
